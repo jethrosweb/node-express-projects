@@ -1,4 +1,4 @@
-# Four Node and Express Projects
+# Task Manager
 
-freeCodeCamp link here  https://www.youtube.com/watch?v=qwfE7fSVaZM <br>
-Setup code link here: https://github.com/john-smilga/node-express-course 
+Guided project 1 from freeCodeCamp, link here  https://www.youtube.com/watch?v=qwfE7fSVaZM <br>
+Starter and public code link here: https://github.com/john-smilga/node-express-course 
